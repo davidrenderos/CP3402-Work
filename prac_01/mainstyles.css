@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+header {
+    background-color: burlywood;
+    border-color: burlywood;
+    padding: 5px;
+}
+
+nav {
+    overflow: hidden;
+    background-color: blanchedalmond;
+    padding: 2px;
+}
+
+footer {
+    background-color: blanchedalmond;
+    padding: 2px;
+}
